@@ -31,7 +31,7 @@ const fr = {
     title: 'Du besoin métier à la mise en production',
     paragraphs: [
       'Je suis **développeuse full-stack**, spécialisée en **Laravel** et **React**. Je conçois, développe et déploie en production des applications métier.',
-      'Chez Smart Expos & Events Morocco, j\'ai réalisé une plateforme multi-entreprises de gestion des formations (HR HUB), un système de badging pour le salon ITAF 2026, le site SmartEx Morocco ainsi que des emailings pour des associations et des salons.',
+      'Chez Smart Expos & Events Morocco, j\'ai réalisé une plateforme multi-entreprises de gestion des formations (HR HUB), un système de badging pour les salons ITAF 2026 et SEAFOOD 4 AFRICA 2026, le site SmartEx Morocco ainsi que des emailings pour des associations et des salons.',
       'Mon parcours en physique électronique m\'a donné une approche rigoureuse et analytique, que j\'applique sur tout le cycle d\'un projet : base de données, back-end, interface et déploiement.'
     ],
     labels: {
@@ -52,7 +52,7 @@ const fr = {
         current: true,
         points: [
           'Conception et développement de HR HUB (hrhub.ma), plateforme multi-entreprises de gestion des formations (Laravel, MySQL)',
-          'Système de badging et de scan des visiteurs pour le salon ITAF 2026 (OFEC Casablanca) : 5 484 inscrits, 3 630 scans, et organisation du badging sur place',
+          'Système de badging et de scan des visiteurs pour les salons ITAF 2026 (OFEC Casablanca : 5 484 inscrits, 3 630 scans) et SEAFOOD 4 AFRICA 2026 (Dakhla), et organisation du badging sur place',
           'Développement du site SmartEx Morocco (smartex.ma) : location de matériel événementiel, devis en ligne',
           'Emailings HTML et travaux web pour des associations (AMPF, ASMEX) et des salons (HYGIE-CLEAN EXPO, REFRIGEREXPO, SEAFOOD 4 AFRICA)',
           'Conception et gestion des bases de données MySQL des applications',
@@ -121,8 +121,8 @@ const fr = {
         galleryCaptions: ['Espace client et analyses', 'Programme de formation', 'Espace recrutement']
       },
       badging: {
-        title: 'Système de Badging ITAF 2026',
-        description: 'Système de badging et de scan des visiteurs développé pour le salon professionnel ITAF 2026 (OFEC Casablanca).\n\nEn chiffres : 5 484 visiteurs inscrits, 1 854 présents, 3 630 scans et 338 exposants.\n\nRéalisations :\n- Génération des badges visiteurs\n- Scan des QR codes à l\'entrée du salon, par caméra ou douchette USB\n- Tableau de bord en temps réel : inscrits, présents, scans par heure\n- Gestion de la base de données MySQL\n- Organisation du badging sur place pendant le salon'
+        title: 'Système de Badging Salons',
+        description: 'Système de badging et de scan des visiteurs développé pour les salons professionnels ITAF 2026 (OFEC Casablanca) et SEAFOOD 4 AFRICA 2026 (Dakhla).\n\nITAF 2026 en chiffres : 5 484 visiteurs inscrits, 1 854 présents, 3 630 scans et 338 exposants.\n\nRéalisations :\n- Génération des badges visiteurs\n- Scan des QR codes à l\'entrée des salons, par caméra ou douchette USB\n- Tableau de bord en temps réel : inscrits, présents, scans par heure\n- Gestion de la base de données MySQL\n- Organisation du badging sur place pendant les salons'
       },
       smartex: {
         title: 'SmartEx Morocco',
@@ -217,7 +217,7 @@ const en = {
     title: 'From business needs to production',
     paragraphs: [
       'I am a **full-stack developer** specialised in **Laravel** and **React**. I design, build and deploy business applications to production.',
-      'At Smart Expos & Events Morocco, I built a multi-company training management platform (HR HUB), a badging system for the ITAF 2026 trade fair, the SmartEx Morocco website, and email campaigns for associations and trade fairs.',
+      'At Smart Expos & Events Morocco, I built a multi-company training management platform (HR HUB), a badging system for the ITAF 2026 and SEAFOOD 4 AFRICA 2026 trade fairs, the SmartEx Morocco website, and email campaigns for associations and trade fairs.',
       'My background in electronic physics gave me a rigorous, analytical approach that I apply across the whole project lifecycle: database, back-end, interface and deployment.'
     ],
     labels: {
@@ -238,7 +238,7 @@ const en = {
         current: true,
         points: [
           'Designed and developed HR HUB (hrhub.ma), a multi-company training management platform (Laravel, MySQL)',
-          'Built a visitor badging and scanning system for the ITAF 2026 trade fair (OFEC Casablanca): 5,484 registrations, 3,630 scans, and ran on-site badging',
+          'Built a visitor badging and scanning system for the ITAF 2026 (OFEC Casablanca: 5,484 registrations, 3,630 scans) and SEAFOOD 4 AFRICA 2026 (Dakhla) trade fairs, and ran on-site badging',
           'Developed the SmartEx Morocco website (smartex.ma): event equipment rental with online quotes',
           'HTML email campaigns and web work for associations (AMPF, ASMEX) and trade fairs (HYGIE-CLEAN EXPO, REFRIGEREXPO, SEAFOOD 4 AFRICA)',
           'Designed and managed the applications\' MySQL databases',
@@ -307,8 +307,8 @@ const en = {
         galleryCaptions: ['Client space and analytics', 'Training programme', 'Recruitment space']
       },
       badging: {
-        title: 'ITAF 2026 Badging System',
-        description: 'Visitor badging and scanning system built for the ITAF 2026 trade fair (OFEC Casablanca).\n\nIn numbers: 5,484 registered visitors, 1,854 attendees, 3,630 scans and 338 exhibitors.\n\nWhat I did:\n- Visitor badge generation\n- QR code scanning at the fair entrance, by camera or USB scanner\n- Real-time dashboard: registrations, attendance, scans per hour\n- MySQL database management\n- On-site badging operations during the fair'
+        title: 'Trade Fair Badging System',
+        description: 'Visitor badging and scanning system built for the ITAF 2026 (OFEC Casablanca) and SEAFOOD 4 AFRICA 2026 (Dakhla) trade fairs.\n\nITAF 2026 in numbers: 5,484 registered visitors, 1,854 attendees, 3,630 scans and 338 exhibitors.\n\nWhat I did:\n- Visitor badge generation\n- QR code scanning at the fair entrance, by camera or USB scanner\n- Real-time dashboard: registrations, attendance, scans per hour\n- MySQL database management\n- On-site badging operations during the fairs'
       },
       smartex: {
         title: 'SmartEx Morocco',
