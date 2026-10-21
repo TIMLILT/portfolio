@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sihamtimlilt.com/sitemap.xml
+Sitemap: https://sihamtimlilt.vercel.app/sitemap.xml
